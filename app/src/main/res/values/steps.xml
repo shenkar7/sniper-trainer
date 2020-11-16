@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="steps_titles">
+
+        <item>1. Mounting the lenses and phone</item>
+        <item>2. Mounting the trigger button</item>
+        <item>3. Zero the POI</item>
+        <item>4. Start shooting!</item>
+
+    </string-array>
+
+    <string-array name="steps_descriptions">
+
+        <item>First mount the convex lens in a distance of 2 cm in front of the scope. Then mount the concave lens 10 cm in front of the convex lens. Then mount the phone 5 cm in front of the concave lens. Adjust the phone position until the image is completely sharp.</item>
+        <item>Mount the button in the opposite side of your shooting hang. Connect the cable in the audio plug.</item>
+        <item>Press in the menu the zero POI button and follow the instructions.</item>
+        <item>Press in the menu the Practice button and start shooting!</item>
+
+    </string-array>
+
+</resources>

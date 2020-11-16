@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sniper Trainer</string>
+    <string name="main_title">SNIPER TRAINER</string>
+    <string name="created_by">created by Yariv Shenkar</string>
+    <string name="practice">Practice</string>
+    <string name="zero">Zero POI</string>
+    <string name="instructions">Instructions</string>
+    <string name="about">About</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="image_description">Image of a certain step</string>
+    <string name="hits">Hits:</string>
+    <string name="vr">VR</string>
+    <string name="ar">AR</string>
+    <string name="choose_range">Choose Shooting Range</string>
+    <string name="about_description">Sniper trainer is a compact and easy to use simulation that is set on your personal sniper rifle. The trainer will provide a virtual shooting range which can be seen threw your personal scope. The trainer will recognise your trigger pull and will shoot the bullet with real life ballistics.</string>
+</resources>
