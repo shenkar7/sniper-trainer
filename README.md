@@ -6,5 +6,5 @@ Written in Java, using Android Studio and google-vr sdk, the app simulates a sho
 
 [Youtube Video Demonstration](https://youtu.be/AjpJJHCV5Ck "Video Demo")
 
-## Project Screen Shots
+## Project Screen Shot
 ![snipertrainer](https://user-images.githubusercontent.com/57297876/122646070-10750900-d126-11eb-8947-c8d0a1465214.JPG)
