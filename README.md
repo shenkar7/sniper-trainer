@@ -1,8 +1,10 @@
-# sniper-trainer
+## Sniper Trainer Project
 
-The app simulates long range shooting. The user mounts the mobile phone on his own rifle and sync the app with his scope. An earphone button is located on the trigger to detect the trigger squeeze. 
+Sniper Trainer is an Android app simulating long-range shooting as part of a personal project. First, the shooter mounts his mobile phone on his real rifle and syncs the app with his rifle scope. 
 
-Using google-vr sdk, the app simulates a shooting range with real environments ballistics, including static and moving steel targets from 200m to 700m.
+Written in Java using Android Studio, google-vr sdk, the app simulates a shooting range with real environments ballistics, including static and moving steel targets in various distances from 200m to 700m.
 
-Demonstration:
-https://youtu.be/AjpJJHCV5Ck
+[Youtube Video Demonstration](https://youtu.be/AjpJJHCV5Ck "Video Demo")
+
+## Project Screen Shots
+![snipertrainer](https://user-images.githubusercontent.com/57297876/122646070-10750900-d126-11eb-8947-c8d0a1465214.JPG)
